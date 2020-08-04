@@ -1,0 +1,3 @@
+/Users/jackyng/Desktop/Learning/cp4i-financial-asset-esv10/cp4i-kstreams-schemavalidation-svc/src/main/java/com/ibm/garage/cpat/domain/FinancialMessage.java
+/Users/jackyng/Desktop/Learning/cp4i-financial-asset-esv10/cp4i-kstreams-schemavalidation-svc/src/main/java/com/ibm/garage/cpat/domain/FinancialMessageDeserializer.java
+/Users/jackyng/Desktop/Learning/cp4i-financial-asset-esv10/cp4i-kstreams-schemavalidation-svc/src/main/java/com/ibm/garage/cpat/domain/SchemaValidationTopology.java
